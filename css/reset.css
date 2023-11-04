@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'KCC-eunyoung';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/KCC-eunyoung-Regular.woff') format('woff');
+    font-weight: normal;font-style: normal;}
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    color: inherit;
+    font-family: 'KCC-eunyoung';
+}
+body {background-color: rgb(154, 235, 175);}
